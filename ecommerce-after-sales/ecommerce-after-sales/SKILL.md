@@ -1,4 +1,4 @@
-
+ecommerce-after-sales/SKILL.md
 ---
 name: ecommerce-after-sales
 description: Handle e-commerce after-sales requests including refunds, returns, damaged products, missing deliveries and refund status inquiries. Use when customers need after-sales assistance.
